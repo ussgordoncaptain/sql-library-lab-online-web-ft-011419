@@ -1,3 +1,3 @@
 UPDATE  Characters
 SET species = 'Martian'
-WHERE species = 'cylon' ;
+WHERE species = 'elf' ;
